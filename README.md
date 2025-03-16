@@ -37,6 +37,13 @@ This implementation recreates **Ad Infinitum** using **C++** on Windows, with th
 
 ---
 
+## Controls
+
+- **Aircraft Movements**: Use **W**, **A**, **S**, **D** keys to move the aircraft.
+- **Fire**: Press the **Space** key to fire.
+
+---
+
 ## Tools and Libraries
 - **C++**: Core programming language for logic and structure.
 - **ICBYTES Library**: A lightweight library for Windows (available at [otoidrak.com](https://otoidrak.com/)). It provides:
