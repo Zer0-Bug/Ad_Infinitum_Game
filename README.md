@@ -7,10 +7,10 @@ You can watch the original game in action [here](https://www.youtube.com/watch?v
 
 ---
 
-## About Ad Infinitum (Commodore 64)
+## 📜 About Ad Infinitum (Commodore 64)
 **Ad Infinitum** is an unreleased prototype of the space shooter **W.A.R.**, developed for the Commodore 64. 
 
-### Key Features of the Original Game:
+### ⚠️Key Features of the Original Game:
 - **Genre:** Horizontal scrolling shooter.
 - **Gameplay:** Players control a spaceship that can move in both directions (left and right), similar to *Uridium*. The objective is to navigate through waves of enemies and obstacles.
 - **Graphics:** Utilizes the Commodore 64’s **VIC-II** chip for sprite-based graphics and smooth scrolling.
@@ -25,7 +25,7 @@ The game was altered before release, likely to avoid legal issues due to its sim
 
 ---
 
-## Project Description
+## 🎯 Project Description
 This implementation recreates **Ad Infinitum** using **C++** on Windows, with the **ICBYTES** library facilitating graphics, input, and sound management. The code maintains the essence of the original gameplay while adapting it to a modern OS.
 
 ### Features
@@ -37,7 +37,7 @@ This implementation recreates **Ad Infinitum** using **C++** on Windows, with th
 
 ---
 
-## Controls
+## 🎮 Controls
 
 - **Aircraft Movements**: Use **W**, **A**, **S**, **D** keys to move the aircraft.
 - **Fire**: Press the **Space** key to fire.
@@ -54,19 +54,19 @@ This implementation recreates **Ad Infinitum** using **C++** on Windows, with th
 
 ---
 
-## Contributing
+## 🤝 Contributing
 Feel free to fork this repository and submit pull requests. Suggestions for improving the retro feel or optimizing the code are welcome!
 
 ---
 
-## Contact
+## 📬 Contact
 For any inquiries, feedback, or collaboration opportunities, feel free to reach out via:
 - 777eerol.exe@gmail.com
 - [Linkedin](https://www.linkedin.com/in/eerolexe/)
 
 ---
 
-## License
+## 📄 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
