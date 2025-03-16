@@ -44,7 +44,7 @@ This implementation recreates **Ad Infinitum** using **C++** on Windows, with th
 
 ---
 
-## Tools and Libraries
+## 🛠 Tools and Libraries
 - **C++**: Core programming language for logic and structure.
 - **ICBYTES Library**: A lightweight library for Windows (available at [otoidrak.com](https://otoidrak.com/)). It provides:
   - Graphics rendering (pixel manipulation and sprite drawing).
