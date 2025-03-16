@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a modern recreation of the Commodore 64 game **Ad Infinitum**, originally an early version of **W.A.R.** (released by Martech in 1986). The project is implemented in **C++ for Windows** using the **icbytes** library, which provides tools for low-level programming and graphics handling. The goal was to replicate the core gameplay mechanics of the original Commodore 64 version while adapting it to a modern Windows environment.
 
-You can watch the original game in action here: [Ad Infinitum on YouTube](#).
+You can watch the original game in action here: [Ad Infinitum on YouTube](https://www.youtube.com/watch?v=PGzjrlfvbmE).
 
 ---
 
@@ -39,7 +39,7 @@ This implementation recreates **Ad Infinitum** using **C++** on Windows, with th
 
 ## Tools and Libraries
 - **C++**: Core programming language for logic and structure.
-- **ICBYTES Library**: A lightweight library for Windows (available at [otoidrak.com](#)). It provides:
+- **ICBYTES Library**: A lightweight library for Windows (available at [otoidrak.com](https://otoidrak.com/)). It provides:
   - Graphics rendering (pixel manipulation and sprite drawing).
   - Keyboard input handling.
   - Basic audio output.
@@ -54,7 +54,7 @@ Feel free to fork this repository and submit pull requests. Suggestions for impr
 
 ## Contact
 For any inquiries, feedback, or collaboration opportunities, feel free to reach out via:
-- **Email:** 777eerol.exe@gmail.com
+- 777eerol.exe@gmail.com
 - [Linkedin](https://www.linkedin.com/in/eerolexe/)
 
 ---
