@@ -221,10 +221,7 @@ Simply run the pre-compiled binary:
 ./Ad_Infinitum.exe
 ```
 <p align="center"><em>Defend the galaxy, rewrite history—Ad Infinitum awaits!</em></p>
-<p align="center">
-  <img src="https://unpkg.com/@tabler/icons@latest/icons/rocket.svg?size=128" width="128" alt="Rocket Icon">
-</p>
-
+<p align="center">🚀</p>
 
 ---
 <br>
