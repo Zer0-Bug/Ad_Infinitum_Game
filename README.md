@@ -220,7 +220,8 @@ Simply run the pre-compiled binary:
 ```bash
 ./Ad_Infinitum.exe
 ```
-<p align="center">🚀 <em>Defend the galaxy, rewrite history—Ad Infinitum awaits!</em></p>
+<p align="center"><em>Defend the galaxy, rewrite history—Ad Infinitum awaits!</em></p>
+<p align="center">🚀</p>
 
 ---
 <br>
