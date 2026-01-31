@@ -52,13 +52,13 @@
 
 **Ad Infinitum** is a modern project dedicated to the preservation and recreation of an unreleased prototype for the Commodore 64. This prototype later evolved into the space shooter **W.A.R.** (released by Martech in 1986).
 
-### 🕹️ The Commodore 64 Original
+### The Commodore 64 Original
 Originally developed in **6502 assembly language**, the prototype leveraged the 1 MHz CPU and 64 KB RAM of the C64. A key technical differentiator was its support for **bidirectional horizontal scrolling**, a feature that was restricted in the final commercial release of *W.A.R.*
 
 > [!NOTE]
 > The prototype featured a title screen font and mechanics heavily inspired by *Uridium*, which likely led to the alterations made before its official release to avoid legal complications.
 
-### 🎥 Media & References
+### Media & References
 *   **Original Gameplay:** [Watch on YouTube](https://www.youtube.com/watch?v=PGzjrlfvbmE)
 *   **Technical Goal:** Replicate the VIC-II chip's sprite-based graphics and smooth scrolling behavior within a C++ environment.
 
