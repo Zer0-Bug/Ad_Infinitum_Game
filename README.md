@@ -48,7 +48,7 @@
 
 ---
 <br>
-<h2 align="center">📜 Historical Context & Heritage</h2>
+<h2 align="center">Historical Context & Heritage</h2>
 
 **Ad Infinitum** is a modern project dedicated to the preservation and recreation of an unreleased prototype for the Commodore 64. This prototype later evolved into the space shooter **W.A.R.** (released by Martech in 1986).
 
